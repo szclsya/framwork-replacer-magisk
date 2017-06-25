@@ -1,0 +1,7 @@
+id=FramworkReplacer
+name=Custom framwork.jar replacer
+version=v1
+versionCode=1
+author=LeoShen
+description=Replace framwork.jar.
+template=3
